@@ -1,1 +1,1 @@
-print(Salman khan)
+print("Salman khan")
