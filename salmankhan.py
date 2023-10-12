@@ -1,0 +1,1 @@
+print(Salman khan)
